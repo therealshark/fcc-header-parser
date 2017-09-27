@@ -1,0 +1,20 @@
+{
+  "name": "fcc-request-header-parser",
+  "version": "0.0.1",
+  "description": "See https://www.freecodecamp.org/challenges/request-header-parser-microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "koa": "^2.3.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "fcc",
+    "koa"
+  ]
+}
