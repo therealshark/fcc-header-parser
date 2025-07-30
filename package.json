@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "koa": "^2.3.0"
+    "koa": "^3.0.1"
   },
   "engines": {
     "node": "8.x"
